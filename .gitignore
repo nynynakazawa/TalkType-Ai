@@ -1,0 +1,19 @@
+# Expo
+.expo/
+__generated__/
+web-build/
+bare-apps/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Env
+.envlocal
+.env.*.local
+env.d.ts
+
+# IDE／OS 固有
+.vscode/
+.DS_Store
